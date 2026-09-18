@@ -1,0 +1,10 @@
+{
+  "name": "DJELAJAH DONGGALA",
+  "description": "Platform digital interaktif dan imersif situs sejarah Kota Tua Donggala berbasis web dengan tur visual 360°,Audio Tour storytelling, peta interaktif, dan komparasi masa lalu ke masa kini.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
